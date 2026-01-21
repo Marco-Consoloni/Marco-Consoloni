@@ -7,8 +7,8 @@ My research focuses on developing Natural Language Processing (NLP) techniques a
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,r,sklearn,docker,mysql,vscode,github,latex)](https://skillicons.dev)
 
 ## How To Find Me 
-- linkedin: 
-- Google Scholar:
+- **Linkedin:** https://www.linkedin.com/in/marco-consoloni/
+- **Google Scholar:** https://scholar.google.com/citations?hl=it&user=vIvyuh8AAAAJ
 
 
 
